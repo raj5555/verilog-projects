@@ -1,2 +1,2 @@
-module halfadded
+module halfadder
 	add a+b
